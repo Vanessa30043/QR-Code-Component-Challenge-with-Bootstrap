@@ -7,11 +7,4 @@ body {
   /* no layout or spacing here — Bootstrap handles it */
 }
 
-img {
-  /* slight rounding already applied with Bootstrap .rounded-3 */
-  /* leave blank or keep for extra control:
-  max-width: 230px;
-  width: 100%;
-  height: auto;
-  */
-}
+
