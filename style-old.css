@@ -1,0 +1,17 @@
+/* styles.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+  font-family: "Outfit", sans-serif;
+  /* no layout or spacing here — Bootstrap handles it */
+}
+
+img {
+  /* slight rounding already applied with Bootstrap .rounded-3 */
+  /* leave blank or keep for extra control:
+  max-width: 230px;
+  width: 100%;
+  height: auto;
+  */
+}
