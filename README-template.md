@@ -18,9 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Screenshot 
 
-![](https://github.com/Vanessa30043/QR-Code-Component-Challenge-with-Bootstrap/blob/main/images/qr.code.with.bootstrap.png?raw=true)
+![QR Code with Bootstrap](images/qr.code.with.bootstrap.png)
 
 
 ### Links
